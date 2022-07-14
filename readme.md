@@ -20,6 +20,7 @@ list of added characters:
                              Space: ‿
 ```
 left collumn is key, middle is alt, right collumn is shift+alt (underscore means doesn't exist):
+```
 '↩˙
 +÷√
 ,∾_
@@ -70,3 +71,4 @@ z⥊⋈
 å←⊣
 æ·⋄
 ø_·
+```
