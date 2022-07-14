@@ -21,7 +21,7 @@
 └───────────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────────────┘
                              Space: ‿
 ```
-left collumn is key, middle is alt, right collumn is shift+alt (underscore means doesn't exist):
+### left collumn is key, middle is alt, right collumn is shift+alt (underscore means doesn't exist):
 ```
 '↩˙
 +÷√
